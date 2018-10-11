@@ -2,8 +2,14 @@
 What abt PMP
 I am learning kubernetes with CI CD pipeline
 
+
 WHat is jenkisns
 
 maven build
 
+
 Ngios build and ethical hacking
+
+what is maven, why it is used
+
+
