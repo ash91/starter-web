@@ -2,10 +2,10 @@
 What abt PMP
 I am learning kubernetes with CI CD pipeline
 
-<<<<<<< HEAD
+
 WHat is jenkisns
 
 maven build
-=======
+
 what is maven, why it is used
->>>>>>> rebase conflicts in mybranch
+
