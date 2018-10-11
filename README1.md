@@ -2,7 +2,7 @@
 #devops training
 # agile training
 
-
+what is software lifecycle
 
 
 
