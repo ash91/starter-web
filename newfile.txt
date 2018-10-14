@@ -1,1 +1,3 @@
 Adding new file in git project. This file is still not traced by git
+
+new branc stash
