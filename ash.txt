@@ -12,6 +12,4 @@ Ngios build and ethical hacking
 
 what is maven, why it is used
 
-Ading notes on git stash
-
-Aws sol architect
+This is a testing branch.
