@@ -4,6 +4,10 @@ new branc stash
 
 new = tag creation
 
+<<<<<<< HEAD
 default code editor is set to visual studio
 
 git commit --amend =to ammend previos commit message
+=======
+default code editor is set to visual studio
+>>>>>>> 1e5ef9996ab8c8fc03b9f5ce39a1f2d7a76bcc36
